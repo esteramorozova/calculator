@@ -1,2 +1,1 @@
-# CalculatorWPF
-# Homework for laboratory
+
